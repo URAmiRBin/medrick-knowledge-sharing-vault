@@ -10,12 +10,12 @@ An archive of Unity knowledge sharing in Medrick studio
 |5     |Memory Management   |Reza Ayenevand      |  8 Jan 2023  |
 |6     |Homescapes meta design   |Discussion      |  16 Jan 2023  |
 |7     |Shaders   |Mahdi Askari      |  22 Jan 2023  |
-|8     |Homescapes meta design   |Discussion      |  16 Jan 2023  |
-|9     |Software Design Philosophy   |Mahsa Eskandari      |  30 Jan 2023  |
+|8     |Homescapes meta design   |Discussion      |  30 Jan 2023  |
+|9     |Software Design Philosophy   |Mahsa Eskandari      |  5 Feb 2023  |
 |10    |Frame Timing Manager Unity 2022  |Emad Vosoughi      |  13 Feb 2023  |
 |11    |Dialogue System Design  |Discussion      |  18 Feb 2023  |
 |12    |Software Design Philosophy   |Mahsa Eskandari      |  27 Feb 2023  |
-|12    |Character movement challenges   |Jamasb Samia      |  5 Mar 2023  |
+|13    |Character movement challenges   |Jamasb Samia      |  5 Mar 2023  |
 
 
 ## Subject Ideas
