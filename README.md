@@ -14,7 +14,8 @@ An archive of Unity knowledge sharing in Medrick studio
 |9     |Software Design Philosophy   |Mahsa Eskandari      |  30 Jan 2023  |
 |10    |Frame Timing Manager Unity 2022  |Emad Vosoughi      |  13 Feb 2023  |
 |11    |Dialogue System Design  |Discussion      |  18 Feb 2023  |
-|12    |Software Design Philosophy   |Mahsa Eskandari      |  27 Jan 2023  |
+|12    |Software Design Philosophy   |Mahsa Eskandari      |  27 Feb 2023  |
+|12    |Character movement challenges   |Jamasb Samia      |  5 Mar 2023  |
 
 
 ## Subject Ideas
