@@ -16,6 +16,9 @@ An archive of Unity knowledge sharing in Medrick studio
 |11    |Dialogue System Design  |Discussion      |  18 Feb 2023  |
 |12    |Software Design Philosophy   |Mahsa Eskandari      |  27 Feb 2023  |
 |13    |Character movement challenges   |Jamasb Samia      |  5 Mar 2023  |
+|14    |Unity's node editor |Yusef Rahmati| 9 Apr 2023 |
+|15    |Software Engineering at Google + Realtime rendering | Amir Hossein Binesh + Mehrdad Jafari | 16 Apr 2023|
+
 
 
 ## Subject Ideas
