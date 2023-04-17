@@ -17,7 +17,10 @@ An archive of Unity knowledge sharing in Medrick studio
 |12    |Software Design Philosophy   |Mahsa Eskandari      |  27 Feb 2023  |
 |13    |Character movement challenges   |Jamasb Samia      |  5 Mar 2023  |
 |14    |Unity's node editor |Yusef Rahmati| 9 Apr 2023 |
-|15    |Software Engineering at Google + Realtime rendering | Amir Hossein Binesh + Mehrdad Jafari | 16 Apr 2023|
+|15    |[Software Engineering at Google](/resources/software-engineering-at-google/Software%20Engineering%20at%20Google.pdf) + [Realtime rendering](/resources/realtime-rendering/RTR-Session%201.pdf) | Amir Hossein Binesh + Mehrdad Jafari | 16 Apr 2023 |
+|16    |Clean Code + Architecture | 24 Apr 2023 | Soheil Jafarian
+|17    |Unity's UI elements | 30 Apr 2023 | Ali Khorramshahi
+
 
 
 
