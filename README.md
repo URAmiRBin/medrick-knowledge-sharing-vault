@@ -27,7 +27,7 @@ An archive of Unity knowledge sharing in Medrick studio
 |22  | Scriptable Object Architecture + Software Design Philosophy  | Amir Abbas Eidi + Sina Karimi  | 17 July 2023 |
 |23  | IK  | Ehsan Mohammadi  | 21 July 2023 |
 |24  | Lighting + Software Design Philosophy  | Amir Hossein Binesh + Sina Karimi | 31 July 2023  |
-|25  | Compression  | Matin Mirzaei | 6 August 2023  |
+|25  | Compression + Realtime rendering  | Matin Mirzaei + Mehrdad Jafari | 6 August 2023  |
 
 
 
