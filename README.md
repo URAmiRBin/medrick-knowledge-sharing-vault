@@ -24,9 +24,9 @@ An archive of Unity knowledge sharing in Medrick studio
 |19    |Realtime Rendering | Mehrdad Jafari | 22 May 2023 | 
 |20    |Realtime Rendering | Mehrdad Jafari | 19 Jun 2023 | 
 |21  | Software Design Philosophy  | Mahsa Eskandari | 3 July 2023  |
-|22  | Scriptable Object Architecture  | Amir Abbas Eidi  | 17 July 2023 |
+|22  | Scriptable Object Architecture + Software Design Philosophy  | Amir Abbas Eidi + Sina Karimi  | 17 July 2023 |
 |23  | IK  | Ehsan Mohammadi  | 21 July 2023 |
-|24  | Lighting  | Amir Hossein Binesh | 31 July 2023  |
+|24  | Lighting + Software Design Philosophy  | Amir Hossein Binesh + Sina Karimi | 31 July 2023  |
 |25  | Compression  | Matin Mirzaei | 6 August 2023  |
 
 
