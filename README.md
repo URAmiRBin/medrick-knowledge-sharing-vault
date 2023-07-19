@@ -31,10 +31,46 @@ An archive of Unity knowledge sharing in Medrick studio
 
 
 
-
-## Subject Ideas
+# Pool
+## Tech
+- Netcode
+- Multiplayer
+- Dots
+- Shader
+- Lighting
+- Editor
+- UI Element
+- Compression
+## Basic
+- Math
+- Cinemachine
+- Timeline
+- Chain
+- Dotween
+## Fun Discussion
+- Code Review
+- Meme Review
+- Repo Review
+- Khatme Repo
+- News Discussion
+- Watch GDC
+- Invite people
+- Gamejams
+## Experience Sharing
+- Mafia online challenges
+- Rooster Wars Architecture change
+- Golmorad Test Driven Developement
+## Cool Features
 - Mesh Deformation
-- Debugger
-- Unit testing
-- Parallel programming in Unity
-- Physics Optimization
+- AI
+- Decals
+- Magic Tricks in Srace
+- Bullet on body
+- Euphoria
+## Books
+- Software Books
+- Architecture Books
+## Real Games Discussion
+- Massive RPG Game Architecture
+## Courses
+- Rendering
